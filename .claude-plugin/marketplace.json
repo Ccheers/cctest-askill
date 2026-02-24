@@ -1,0 +1,13 @@
+{
+  "name": "cctest-askill",
+  "owner": {},
+  "plugins": [
+    {
+      "name": "cctest-askill",
+      "description": "cctest-askill",
+      "version": "",
+      "source": "./agentplugins/cctest-askill",
+      "author": {}
+    }
+  ]
+}
